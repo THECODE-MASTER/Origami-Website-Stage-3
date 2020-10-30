@@ -1,0 +1,56 @@
+*{
+    background-color: black;
+  }
+  .header {
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black
+  }
+  .header *{
+    border:solid
+  }
+  .menu {
+      display: flex;
+      justify-content: space-evenly;
+    }
+  
+  .start {
+      display: flex;
+      justify-content: space-evenly;
+      background-color: #000000;
+      color:white;
+  }
+  h1{
+  color: white;
+  margin: 1px;
+  padding: 1px;
+  }
+  h2{
+    color: white;
+    margin: 1px;
+    padding: 1px;
+    }
+  .grid{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      background-color:black;
+      }
+      .origami{
+        background-color:white;
+        padding:1px;
+        }
+  
+  .footer {
+      color:gold;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #000000;
+  }
+  .social {
+    color:gold;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #000000; 
+  }
